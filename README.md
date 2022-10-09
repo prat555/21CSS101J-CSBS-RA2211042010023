@@ -1,2 +1,2 @@
 # Pyhton programs
-Solving basic pyhton programs
+Solving basic pyhton programs from scratch.
